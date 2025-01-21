@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "background": "/dark/assets/imgs/background/technology.jpg",
+    "title": "Innovative Technology Solutions",
+    "text": "Upgrade your IT, track assets, and secure systems.",
+    "button": {
+      "link": "/dark/technology",
+      "text": "Explore Technology"
+    }
+  },
+  {
+    "id": 2,
+    "background": "/dark/assets/imgs/background/security.jpg",
+    "title": "Secure Your Operations",
+    "text": "Protect assets with biometric, CCTV, and alarms.",
+    "button": {
+      "link": "/dark/security",
+      "text": "Get Secured"
+    }
+  },
+  {
+    "id": 3,
+    "background": "/dark/assets/imgs/background/construction.jpg",
+    "title": "Quality Construction Services",
+    "text": "From custom homes to sustainable infrastructure.",
+    "button": {
+      "link": "/dark/construction",
+      "text": "Discover Construction"
+    }
+  },
+  {
+    "id": 4,
+    "background": "/dark/assets/imgs/background/solar.png",
+    "title": "Sustainable Energy Solutions",
+    "text": "Save energy and reduce costs with solar.",
+    "button": {
+      "link": "/dark/energy",
+      "text": "Learn More"
+    }
+  }
+]

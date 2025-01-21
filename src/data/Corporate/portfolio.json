@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "number": "01",
+    "title": "Educational Institutions",
+    "image": "/dark/assets/imgs/portfolio/3/pexel.jpg",
+    "details": "At Lyambai Teachers College of Education Limited, we implemented a state-of-the-art access control system that revolutionized campus security. Our solution integrated student and staff identification, attendance tracking, and facility access management, creating a safer and more organized educational environment.",
+    "marqText": "Student Access Control"
+  },
+  {
+    "id": 2,
+    "number": "02",
+    "title": "Food Reserve Agency",
+    "image": "/dark/assets/imgs/portfolio/3/biometric.jpg",
+    "details": "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "marqText": "Facility Access Management"
+  },
+  {
+    "id": 3,
+    "number": "03",
+    "title": "Total Zambia",
+    "image": "/dark/assets/imgs/portfolio/3/CCTVTOTAL.jpg",
+    "details": "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "marqText": "Integrated Security"
+  }
+]

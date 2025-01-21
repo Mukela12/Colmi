@@ -1,0 +1,23 @@
+[
+  {
+  "id": 1,
+  "image": "assets/imgs/serv-icons/0.png",
+  "category": "Security Solutions",
+  "title": "Integrated Access Control",
+  "text": "Enterprise-grade security systems with biometric, CCTV, and smart access management for complete facility protection."
+  },
+  {
+  "id": 2,
+  "image": "assets/imgs/serv-icons/1.png",
+  "category": "IT Infrastructure",
+  "title": "Technology Solutions",
+  "text": "Custom software development, network installation, and advanced IT management systems for modern businesses."
+  },
+  {
+  "id": 3,
+  "image": "assets/imgs/serv-icons/2.png",
+  "category": "Construction Services",
+  "title": "Building Excellence",
+  "text": "Full-spectrum construction solutions from commercial buildings to infrastructure projects, delivered with precision."
+  }
+  ]
