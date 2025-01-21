@@ -5,8 +5,8 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="keywords" content="React Nextjs Template Geekfolio Multi-Purpose themeforest" />
-        <meta name="description" content="Geekfolio - Multi-Purpose React.js Next.js Template" />
+        <meta name="keywords" content="COLMI Enterprises - CCTV Installation, Biometric System Installation, Commercial Construction, Solar Installation" />
+        <meta name="description" content="COLMI Enterprises - is a proudly Zambian-owned company, delivering innovative products and services across various industries." />
         <meta name="author" content="" />
         {/* ------ Favicon ------ */}
         <link rel="shortcut icon" href="/dark/assets/imgs/favicon.ico" />
